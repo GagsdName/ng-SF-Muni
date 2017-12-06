@@ -1,0 +1,13 @@
+/* This file will contain all SVG styling for the map component*/
+.svg-content-responsive{
+  display: inline-block;
+  position: absolute;
+  top:0;
+  left:0;
+}
+
+
+.layer_streets{
+  fill: green;
+  stroke: black;
+}
